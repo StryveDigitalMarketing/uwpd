@@ -280,6 +280,7 @@ input[type=submit]:hover,
 	padding: 0 0 15px;
 }
 .top-header {float: right;}
+.bottom-social {float: right;}
 .mobile-panel {display: none;}
 .btn-list {
 	float: left;
@@ -313,7 +314,6 @@ input[type=submit]:hover,
 .social .facebook a:hover {background: url(images/ico-facebook.png) no-repeat 0 -31px;}
 .social .twitter a:hover {background: url(images/ico-twitter.png) no-repeat 0 -31px;}
 .footer-social {
-	float: left;
 	padding: 20px 0 0 35px;
 }
 .footer-social li {
